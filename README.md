@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakkakula-Venkatesh
 - 👀 I’m interested in making real world applications scalable, performable and beautiful
-- 🌱 I’m currently learning ruby_on_rails
+- 🌱 Skilled in ROR, MERN Stacks
 - 📫 You can reach out to me on my mail lakkakula.venkatesh8726@gmail.com
 
 <!---
